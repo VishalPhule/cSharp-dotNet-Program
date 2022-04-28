@@ -1,0 +1,15 @@
+D:\CodewithVishu\C#.Net\Practice Pqms\obj\Debug\net6.0\Practice Pqms.csproj.AssemblyReference.cache
+D:\CodewithVishu\C#.Net\Practice Pqms\obj\Debug\net6.0\Practice Pqms.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodewithVishu\C#.Net\Practice Pqms\obj\Debug\net6.0\Practice Pqms.AssemblyInfoInputs.cache
+D:\CodewithVishu\C#.Net\Practice Pqms\obj\Debug\net6.0\Practice Pqms.AssemblyInfo.cs
+D:\CodewithVishu\C#.Net\Practice Pqms\obj\Debug\net6.0\Practice Pqms.csproj.CoreCompileInputs.cache
+D:\CodewithVishu\C#.Net\Practice Pqms\bin\Debug\net6.0\Practice Pqms.exe
+D:\CodewithVishu\C#.Net\Practice Pqms\bin\Debug\net6.0\Practice Pqms.deps.json
+D:\CodewithVishu\C#.Net\Practice Pqms\bin\Debug\net6.0\Practice Pqms.runtimeconfig.json
+D:\CodewithVishu\C#.Net\Practice Pqms\bin\Debug\net6.0\Practice Pqms.dll
+D:\CodewithVishu\C#.Net\Practice Pqms\bin\Debug\net6.0\Practice Pqms.pdb
+D:\CodewithVishu\C#.Net\Practice Pqms\obj\Debug\net6.0\Practice Pqms.dll
+D:\CodewithVishu\C#.Net\Practice Pqms\obj\Debug\net6.0\refint\Practice Pqms.dll
+D:\CodewithVishu\C#.Net\Practice Pqms\obj\Debug\net6.0\Practice Pqms.pdb
+D:\CodewithVishu\C#.Net\Practice Pqms\obj\Debug\net6.0\Practice Pqms.genruntimeconfig.cache
+D:\CodewithVishu\C#.Net\Practice Pqms\obj\Debug\net6.0\ref\Practice Pqms.dll
